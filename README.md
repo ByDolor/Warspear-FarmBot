@@ -4,7 +4,7 @@ Warspear Online için geliştirilmiş **otomatik farm botu**.
 PyQt5 arayüzü, OpenCV ile canavar algılama ve **pyautogui** ile otomatik tıklama özellikleri içerir.
 
 <p align="center">
-  <img src="docs/screenshot.png" alt="Warspear FarmBot" width="80%"/>
+  <img src="docs/farmbot.png" alt="Warspear FarmBot" width="80%"/>
 </p>
 
 ---
