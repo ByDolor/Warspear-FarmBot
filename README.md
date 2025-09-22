@@ -24,3 +24,18 @@ PyQt5 arayüzü, OpenCV ile canavar algılama ve **pyautogui** ile otomatik tık
 git clone https://github.com/ByDolor/Warspear-FarmBot.git
 cd Warspear-FarmBot
 pip install -r requirements.txt
+
+
+⚠️ Sorumluluk Reddi
+
+Bu proje yalnızca eğitim ve kişisel kullanım amaçlıdır.
+WarSpear Online veya başka herhangi bir oyunda hile, avantaj sağlama ya da ticari kullanım için kullanılmamalıdır.
+
+Proje geliştiricisi, bu yazılımın kullanımından doğabilecek hesap kayıpları, yasaklanmalar veya diğer olumsuz sonuçlardan sorumlu değildir.
+Kullanım tamamen sizin sorumluluğunuzdadır.
+
+📜 Lisans
+
+Bu proje MIT Lisansı ile lisanslanmıştır.
+Daha fazla bilgi için LICENSE
+ dosyasına göz atabilirsiniz.
